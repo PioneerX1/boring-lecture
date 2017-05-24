@@ -1,0 +1,14 @@
+h2.intro {
+  font-weight: bold;
+  font-style: oblique;
+}
+
+p.intro {
+  font-family: monospace;
+  color: teal;
+}
+
+img.intro {
+  width: 200px;
+  height: 200px;
+}
